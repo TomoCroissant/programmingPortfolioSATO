@@ -19,3 +19,11 @@ OOP spaceship videogame using Processing
 [Source Code]()
 
 ## Programming Semester 2 Projects:
+
+### Shape Tester Project
+
+OOP basic shape area & surface area calculator using Python
+
+![Shape Tester]()
+
+[Source Code]()
