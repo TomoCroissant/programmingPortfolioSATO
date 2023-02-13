@@ -14,7 +14,7 @@ OOP graphical calculator using Processing
 
 OOP spaceship videogame using Processing
 
-![Space Game]()
+![Space Game](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/spaceGame.png?raw=true)
 
 [Source Code]()
 
