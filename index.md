@@ -24,6 +24,6 @@ OOP spaceship videogame using Processing
 
 OOP text-based shape volume & surface area calculator using Python
 
-![Shape Tester]()
+![Shape Tester](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/shapeTester2.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/shapeTester)
