@@ -22,7 +22,7 @@ OOP spaceship videogame using Processing
 
 ### Shape Tester Project
 
-OOP text-based shape volume & surface area calculator using Python
+OOP text-based volume & surface area calculator for box, sphere, and pyramid using Python
 
 ![Shape Tester](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/shapeTester2.png?raw=true)
 
