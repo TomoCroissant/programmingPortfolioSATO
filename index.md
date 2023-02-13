@@ -10,4 +10,12 @@ OOP graphical calculator using Processing
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/calculator)
 
+### Space Game Project
+
+OOP spaceship videogame using Processing
+
+![Space Game]()
+
+[Source Code]()
+
 ## Programming Semester 2 Projects:
