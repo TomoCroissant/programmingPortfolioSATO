@@ -27,3 +27,13 @@ OOP text-based volume & surface area calculator for box, sphere, and pyramid usi
 ![Shape Tester](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/shapeTester2.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/shapeTester)
+
+## Out of class projects:
+
+### Monty Hall Problem
+
+A recreation of the famous Monty Hall Problem. Tracks statistics and measures probability of each outcome.
+
+![Monty Hall Problem]()
+
+[Source Code]()
