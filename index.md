@@ -32,7 +32,7 @@ OOP text-based volume & surface area calculator for box, sphere, and pyramid usi
 
 ### Monty Hall Problem
 
-A recreation of the famous Monty Hall Problem. Tracks statistics and measures probability of each outcome.
+A recreation of the famous Monty Hall Problem using Python. Tracks statistics and measures probability of each outcome.
 
 ![Monty Hall Problem]()
 
