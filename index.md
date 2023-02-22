@@ -2,7 +2,7 @@
 
 ## Programming Semester 1 Projects:
 
-### Calculator Project
+### Calculator
 
 OOP graphical calculator using Processing
 
@@ -10,7 +10,7 @@ OOP graphical calculator using Processing
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/calculator)
 
-### Space Game Project
+### Space Game
 
 OOP spaceship videogame using Processing
 
@@ -20,13 +20,21 @@ OOP spaceship videogame using Processing
 
 ## Programming Semester 2 Projects:
 
-### Shape Tester Project
+### Shape Tester
 
 OOP text-based volume & surface area calculator for box, sphere, and pyramid using Python
 
 ![Shape Tester](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/shapeTester2.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/shapeTester)
+
+### Pig Latin Converter
+
+Converts English into Pig Latin using Python.
+
+![Pig Latin Converter]()
+
+[Source Code]()
 
 ## Out of class projects:
 
