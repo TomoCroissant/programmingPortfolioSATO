@@ -30,7 +30,7 @@ OOP text-based volume & surface area calculator for box, sphere, and pyramid usi
 
 ### Pig Latin Converter
 
-Converts English into Pig Latin using Python.
+Converts English into Pig Latin using Python
 
 ![Pig Latin Converter](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/pigLatin.png?raw=true)
 
