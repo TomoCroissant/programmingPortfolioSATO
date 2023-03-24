@@ -46,3 +46,12 @@ A text-based recreation of the famous Monty Hall Problem using Python. Tracks st
 ![Monty Hall Problem](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/montyHallStat.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/montyHallProblem/montyHallProblem.py)
+
+### Convolution algorithm
+
+A convolution algorithm using Python that graphs and saves data. Convolution algorithms modify one signal using the shape of a second signal to produce a third signal that is a combination of the two.
+
+![Convolution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/convolution1.png?raw=true)
+![Convolution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/convolution2.png?raw=true)
+
+[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/convolution/convolution.py)
