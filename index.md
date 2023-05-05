@@ -55,3 +55,13 @@ A convolution algorithm using Python that also graphs and saves data. Convolutio
 ![Convolution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/convolution2.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/convolution/convolution.py)
+
+### Grayscale Converter
+
+Converts images to grayscale using Python with matplotlib.
+
+![Grayscale Converter](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/grayScale2.png?raw=true)
+
+*Image credits: NASA, ESA, CSA, and STScI*
+
+[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/grayscaleConverter/grayscaleConverter.py)
