@@ -16,7 +16,7 @@ def toGray(img):
   return gray
 
 
-#uses to Gray to convert image to grayscale
+#uses toGray to convert image to grayscale
 grayImg = toGray(inputImg)
 
 
