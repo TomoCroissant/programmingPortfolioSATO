@@ -58,7 +58,7 @@ A convolution algorithm using Python that also graphs and saves data. Convolutio
 
 ### Grayscale Converter
 
-Converts images to grayscale using Python with matplotlib.
+Converts images to grayscale using Python with the matplotlib library.
 
 ![Grayscale Converter](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/grayScale2.png?raw=true)
 
