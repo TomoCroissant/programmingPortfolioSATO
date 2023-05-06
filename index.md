@@ -68,7 +68,7 @@ Converts images to grayscale using Python with the matplotlib library.
 
 ### Dice Roller
 
-Rolls a chosen amount of dice and finds the sum of the rolls, then repeats as many times as specified. Made using Python and graphs the results with the matplotlib library.
+Rolls a chosen number of dice and finds the sum of the rolls, then repeats as many times as specified. Made using Python and graphs the results with the matplotlib library.
 
 ![Dice Roller](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/diceRoller.png?raw=true)
 
