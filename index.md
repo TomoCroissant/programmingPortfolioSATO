@@ -36,6 +36,10 @@ Converts English into Pig Latin using Python
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/pigLatinConverter/pigLatinConverter.py)
 
+### Alptraum von James
+
+\[This is a placeholder for the semester 2 group project. Details will be added soon\]
+
 ## Out of class projects:
 
 ### Monty Hall Problem
@@ -74,6 +78,12 @@ Rolls a chosen number of dice and finds the sum of the rolls, then repeats as ma
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/diceRoller/diceRoller.py)
 
-## Contact me
+## Certifications:
+
+*
+
+*
+
+## Contact me:
 
 Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
