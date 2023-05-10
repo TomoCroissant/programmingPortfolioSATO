@@ -73,3 +73,7 @@ Rolls a chosen number of dice and finds the sum of the rolls, then repeats as ma
 ![Dice Roller](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/diceRoller.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/diceRoller/diceRoller.py)
+
+## Contact me
+
+Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
