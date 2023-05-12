@@ -16,6 +16,10 @@ OOP spaceship videogame using Processing
 
 ![Space Game](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/spaceGame.png?raw=true)
 
+![Space Game UML](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/SpaceGameUML.png?raw=true)
+
+*UML made by Kenneth Kapptie*
+
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/spaceGame)
 
 ## Programming Semester 2 Projects:
