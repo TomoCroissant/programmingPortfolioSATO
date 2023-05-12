@@ -4,7 +4,7 @@
 
 ### Calculator
 
-OOP graphical calculator using Processing
+OOP graphical calculator using Processing.
 
 ![Calculator](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/calc1.png?raw=true)
 
@@ -12,7 +12,7 @@ OOP graphical calculator using Processing
 
 ### Space Game
 
-OOP spaceship videogame using Processing
+OOP spaceship videogame using Processing.
 
 ![Space Game](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/spaceGame.png?raw=true)
 
@@ -26,7 +26,7 @@ OOP spaceship videogame using Processing
 
 ### Shape Tester
 
-OOP text-based volume & surface area calculator for box, sphere, and pyramid using Python
+OOP text-based volume & surface area calculator for box, sphere, and pyramid using Python.
 
 ![Shape Tester](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/shapeTester2.png?raw=true)
 
@@ -34,7 +34,7 @@ OOP text-based volume & surface area calculator for box, sphere, and pyramid usi
 
 ### Pig Latin Converter
 
-Converts English into Pig Latin using Python
+Converts English into Pig Latin using Python.
 
 ![Pig Latin Converter](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/pigLatin.png?raw=true)
 
@@ -57,7 +57,7 @@ A text-based recreation of the famous Monty Hall Problem using Python. Tracks st
 
 ### Convolution algorithm
 
-A convolution algorithm using Python that also graphs and saves data. Convolution algorithms modify one signal using the shape of a second signal to produce a third signal that often highlights desired features of the first signal.
+A convolution algorithm using Python that also graphs and saves data. Convolution algorithms modify one signal using the shape of a second signal to produce a third signal that highlights desired features of the first signal.
 
 ![Convolution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/convolution1.png?raw=true)
 ![Convolution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/convolution2.png?raw=true)
