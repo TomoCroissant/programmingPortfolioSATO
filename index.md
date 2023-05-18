@@ -86,6 +86,7 @@ Rolls a chosen number of dice and finds the sum of the rolls, then repeats as ma
 
 * Computer Programming 1
 * Computer Programming 2 Python
+* Computer Programming 2 C++
 
 ## Contact me:
 
