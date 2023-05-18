@@ -40,7 +40,7 @@ Converts English into Pig Latin using Python.
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/pigLatinConverter/pigLatinConverter.py)
 
-### Alptraum von James
+### Alptraum von James Group Project
 
 \[This is a placeholder for the semester 2 group project. Details will be added soon\]
 
