@@ -1,14 +1,14 @@
 # Welcome to Tomo's Programming Portfolio
 
-## Contact me:
-
-Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
-
 ## Certifications:
 
 * Computer Programming 1
 * Computer Programming 2 Python
 * Computer Programming 2 C++
+
+## Contact me:
+
+Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
 
 ## Programming Semester 1 Projects:
 
