@@ -42,7 +42,13 @@ Converts English into Pig Latin using Python.
 
 ### Alptraum von James Group Project
 
-\[This is a placeholder for the semester 2 group project. Details will be added soon\]
+Group project involving Ian Turner, Reid-Dzung Nguyen, Henry Miller, and myself. An arena-shooter game in which a boomerang constantly follows the player and is used to damage enemies. Made using Python with the Pygame module.
+
+![Alptraum von James]()
+
+![Alptraum von James UML](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/UML.png?raw=true)
+
+[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/alptraumVonJames)
 
 ## Out of class projects:
 
