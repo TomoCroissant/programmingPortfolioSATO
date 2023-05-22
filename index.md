@@ -1,5 +1,15 @@
 # Welcome to Tomo's Programming Portfolio
 
+## Certifications:
+
+* Computer Programming 1
+* Computer Programming 2 Python
+* Computer Programming 2 C++
+
+## Contact me:
+
+Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
+
 ## Programming Semester 1 Projects:
 
 ### Calculator
@@ -42,9 +52,11 @@ Converts English into Pig Latin using Python.
 
 ### Alptraum von James Group Project
 
-Group project involving Ian Turner, Reid-Dzung Nguyen, Henry Miller, and myself. An arena-shooter game in which a boomerang constantly follows the player and is used to damage enemies. Made using Python with the Pygame module.
+Group project with Ian Turner, Reid-Dzung Nguyen, Henry Miller, and myself. An arena-shooter game in which a boomerang constantly follows the player and is used to damage enemies. Made using Python with the Pygame module.
 
-![Alptraum von James]()
+![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james.png?raw=true)
+![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james3.png?raw=true)
+![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james2.png?raw=true)
 
 ![Alptraum von James UML](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/UML.png?raw=true)
 
@@ -87,13 +99,3 @@ Rolls a chosen number of dice and finds the sum of the rolls, then repeats as ma
 ![Dice Roller](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/diceRoller.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/diceRoller/diceRoller.py)
-
-## Certifications:
-
-* Computer Programming 1
-* Computer Programming 2 Python
-* Computer Programming 2 C++
-
-## Contact me:
-
-Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
