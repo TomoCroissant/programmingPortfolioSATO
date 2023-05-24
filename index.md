@@ -100,3 +100,11 @@ Rolls a chosen number of dice and finds the sum of the rolls, then repeats as ma
 ![Dice Roller](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/diceRoller.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/diceRoller/diceRoller.py)
+
+### Tic Tac Toe
+
+Text-based Tic Tac Toe using C++.
+
+![Tic Tac Toe](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/ticTacToeC++.png?raw=true)
+
+[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/ticTacToeC%2B%2B/ticTacToe.cpp)
