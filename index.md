@@ -56,7 +56,6 @@ Group project with Ian Turner, Reid-Dzung Nguyen, Henry Miller, and myself. OOP 
 
 ![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james.png?raw=true)
 ![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james3.png?raw=true)
-![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james2.png?raw=true)
 
 ![Alptraum von James UML](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/UML.png?raw=true)
 
