@@ -2,9 +2,9 @@
 
 ## Certifications:
 
-* Computer Programming 1
-* Computer Programming 2 Python
-* Computer Programming 2 C++
+* Computer Programming 1 (820)
+* Computer Programming 2 Python (827)
+* Computer Programming 2 C++ (822)
 
 ## Contact me:
 
