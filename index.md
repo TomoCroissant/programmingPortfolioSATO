@@ -5,10 +5,27 @@
 * Computer Programming 1 (820)
 * Computer Programming 2 Python (827)
 * Computer Programming 2 C++ (822)
+* Robotics 1 (611)
 
 ## Contact me:
 
 Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
+
+## Spotlight:
+
+### Alptraum von James Group Project
+
+Group project with Ian Turner, Reid-Dzung Nguyen, Henry Miller, and myself during semester 2. OOP arena-shooter game in which a boomerang constantly follows the player and is used to damage enemies. Made using Python with the Pygame module.
+
+![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james.png?raw=true)
+![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james3.png?raw=true)
+
+![Alptraum von James UML](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/UML.png?raw=true)
+
+[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/alptraumVonJames)
+
+[Link to Github](https://github.com/TomoCroissant/Crab)
+
 
 ## Programming Semester 1 Projects:
 
@@ -49,19 +66,6 @@ Converts English into Pig Latin using Python.
 ![Pig Latin Converter](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/pigLatin.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/pigLatinConverter/pigLatinConverter.py)
-
-### Alptraum von James Group Project
-
-Group project with Ian Turner, Reid-Dzung Nguyen, Henry Miller, and myself. OOP arena-shooter game in which a boomerang constantly follows the player and is used to damage enemies. Made using Python with the Pygame module.
-
-![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james.png?raw=true)
-![Alptraum von James](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/james3.png?raw=true)
-
-![Alptraum von James UML](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/UML.png?raw=true)
-
-[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/alptraumVonJames)
-
-[Link to Github](https://github.com/TomoCroissant/Crab)
 
 ## Out of class projects:
 
