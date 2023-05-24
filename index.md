@@ -61,7 +61,7 @@ Group project with Ian Turner, Reid-Dzung Nguyen, Henry Miller, and myself. OOP 
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/alptraumVonJames)
 
-[Github](https://github.com/TomoCroissant/Crab)
+[Link to Github](https://github.com/TomoCroissant/Crab)
 
 ## Out of class projects:
 
