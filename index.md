@@ -21,7 +21,7 @@ In collaboration with Dr. Clavijo at the University of Utah Department of Mechan
 
 ### Calculator
 
-OOP graphical calculator using Processing.
+Object-oriented programming (OOP) graphical calculator using Processing.
 
 ![Calculator](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/calc1.png?raw=true)
 
