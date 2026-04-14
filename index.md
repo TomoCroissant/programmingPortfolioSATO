@@ -13,9 +13,11 @@ Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
 
 ## Heat Transfer Research with Dr. Clavijo
 
-I developed a mathematical model of heat dissipation within a biological cell using MATLAB and finite difference modeling techniques.
+In collaboration with Dr. Clavijo, I developed a mathematical model of heat dissipation within a biological cell using MATLAB and finite difference modeling techniques.
 
-## Programming 1 Projects:
+![Intracellular Steady State Heat Distribution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/Intracellular%20Steady%20State%20Heat%20Distribution.png)
+
+## Programming 1 & 2 Projects:
 
 ### Calculator
 
@@ -36,16 +38,6 @@ OOP spaceship videogame using Processing.
 *UML image made by Ken Kapptie*
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/tree/gh-pages/src/spaceGame)
-
-## Programming 2 Projects:
-
-### Pig Latin Converter
-
-Converts English into Pig Latin using Python.
-
-![Pig Latin Converter](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/pigLatin.png?raw=true)
-
-[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/pigLatinConverter/pigLatinConverter.py)
 
 ### Tic Tac Toe
 
@@ -70,15 +62,6 @@ Group project with Ian Turner, Reid-Dzung Nguyen, Henry Miller, and myself. OOP 
 
 ## Out of class projects:
 
-### Monty Hall Problem
-
-A text-based recreation of the famous Monty Hall Problem using Python. Tracks statistics and measures probability of each outcome.
-
-![Monty Hall Problem](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/montyHallMain.png?raw=true)
-![Monty Hall Problem](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/montyHallStat.png?raw=true)
-
-[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/montyHallProblem/montyHallProblem.py)
-
 ### Convolution algorithm
 
 A convolution algorithm using Python that also graphs and saves data. Convolution algorithms modify one signal using the shape of a second signal to produce a third signal that highlights desired features of the first signal.
@@ -87,6 +70,15 @@ A convolution algorithm using Python that also graphs and saves data. Convolutio
 ![Convolution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/convolution2.png?raw=true)
 
 [Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/convolution/convolution.py)
+
+### Monty Hall Problem
+
+A text-based recreation of the famous Monty Hall Problem using Python. Tracks statistics and measures probability of each outcome.
+
+![Monty Hall Problem](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/montyHallMain.png?raw=true)
+![Monty Hall Problem](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/montyHallStat.png?raw=true)
+
+[Source Code](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/src/montyHallProblem/montyHallProblem.py)
 
 ### Grayscale Converter
 
