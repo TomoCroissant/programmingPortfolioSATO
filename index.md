@@ -11,6 +11,10 @@
 
 Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
 
+## Heat Transfer Research with Dr. Clavijo
+
+I developed a mathematical model of heat dissipation within a biological cell using MATLAB and finite difference modeling techniques.
+
 ## Programming 1 Projects:
 
 ### Calculator
