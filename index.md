@@ -15,7 +15,7 @@ Tomo Sato's email: [tsato122@gmail.com](mailto:tsato122@gmail.com)
 
 In collaboration with Dr. Clavijo, I developed a mathematical model of heat dissipation within a biological cell using MATLAB and finite difference modeling techniques.
 
-![Intracellular Steady State Heat Distribution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/Intracellular%20Steady%20State%20Heat%20Distribution.png)
+![Intracellular Steady State Heat Distribution](https://github.com/TomoCroissant/programmingPortfolioSATO/blob/gh-pages/images/Intracellular%20Steady%20State%20Heat%20Distribution.png?raw=true)
 
 ## Programming 1 & 2 Projects:
 
